@@ -1,17 +1,10 @@
-### Hi there 👋
+### Hey there, I'm Zinnia! 👋
 
-
-**zinniaw/zinniaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile! :)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
+I'm currently a 10th grade high school student exploring the world of CS
+😄 Pronouns: she/her
+- 🌱 At the moment, I'm learning python, and having a bit of fun with html and css
+- 👯 I’m looking to collaborate with passionate like-minded individuals who are looking to grow in their tech journey
+- 📫 You can reach me at zinniawn48@gmail.com
 - ⚡ Fun fact: i like to bake!
 
 
